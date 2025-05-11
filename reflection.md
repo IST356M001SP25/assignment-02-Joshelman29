@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  josh elman
+Sudent Email:  jdelman@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I this assignment, we learnt how to parse raw text file data into json object. First we created three methods parse_packaging, cal_total_units and get_unit in packaging.py file. The parse_pcakaging method takes text input and splits the input based on '/' separator results a dictionary. The calc_total_units takes a dictionary and multiplies all the items in the dictionary. The get units prints the name of first item in the dictionary. We called all three methods in the package.py file where we read a text file containing our text lines. This program reads each line from packaging.txt file and calculates each package in a dictionary. finally this dictionary is added in a list and this list is parsed into json object. The code used in this assigment sounds logically advance and quite hard to grasp.
 
